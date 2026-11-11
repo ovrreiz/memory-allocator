@@ -1,0 +1,5 @@
+*.o
+*.so
+tests/snippets/test-*
+!tests/snippets/*.c
+tests/snippets/*.out
