@@ -5,5 +5,5 @@
 
 ## Результат запуску тестів
 
-![tests 1](screenshots/tests-1.png)
-![tests 2](screenshots/tests-2.png)
+![tests 1](screenshots/test1.png)
+![tests 2](screenshots/test2.png)
